@@ -1,0 +1,27 @@
+{
+  "tests": 3,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "RequestLoggerTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "InitializesDatabase",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\request_logger_test.cpp",
+          "line": 6
+        },
+        {
+          "name": "SavesSuccessfulRequest",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\request_logger_test.cpp",
+          "line": 11
+        },
+        {
+          "name": "SavesBlockedRequest",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\request_logger_test.cpp",
+          "line": 40
+        }
+      ]
+    }
+  ]
+}

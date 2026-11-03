@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DomainBlockerTests.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\DomainBlockerTests.dir/objects.a @CMakeFiles\DomainBlockerTests.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -Wl,--whole-archive CMakeFiles\DomainBlockerTests.dir/objects.a -Wl,--no-whole-archive -o DomainBlockerTests.exe -Wl,--out-implib,libDomainBlockerTests.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DomainBlockerTests.dir\linkLibs.rsp

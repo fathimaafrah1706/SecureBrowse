@@ -1,0 +1,42 @@
+{
+  "tests": 6,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "DomainBlockerTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "BlocksExactDomain",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\domain_blocker_test.cpp",
+          "line": 26
+        },
+        {
+          "name": "BlocksSubdomain",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\domain_blocker_test.cpp",
+          "line": 30
+        },
+        {
+          "name": "AllowsUnblockedDomain",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\domain_blocker_test.cpp",
+          "line": 34
+        },
+        {
+          "name": "IgnoresCase",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\domain_blocker_test.cpp",
+          "line": 38
+        },
+        {
+          "name": "RejectsUnconfiguredDomain",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\domain_blocker_test.cpp",
+          "line": 42
+        },
+        {
+          "name": "LoadsCorrectDomainCount",
+          "file": "C:\\Users\\AFRAH\\Downloads\\SecureBrowse\\tests\\domain_blocker_test.cpp",
+          "line": 46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+URLValidatorTest.AcceptsValidHTTPS 7 0.00147224
+URLValidatorTest.AcceptsValidHTTP 7 0.00162537
+URLValidatorTest.RejectsUnsupportedProtocol 7 0.00154333
+URLValidatorTest.RejectsInvalidPort 7 0.00139754
+URLValidatorTest.RejectsTrailingDot 7 0.00149891
+URLValidatorTest.RejectsEmptyURL 7 0.00154877
+URLValidatorTest.RejectsMalformedHostname 7 0.00139027
+DomainBlockerTest.BlocksExactDomain 3 0.00413493
+DomainBlockerTest.BlocksSubdomain 3 0.0045477
+DomainBlockerTest.AllowsUnblockedDomain 3 0.00506537
+DomainBlockerTest.IgnoresCase 3 0.00556903
+DomainBlockerTest.RejectsUnconfiguredDomain 3 0.00362007
+DomainBlockerTest.LoadsCorrectDomainCount 3 0.00551193
+RequestLoggerTest.InitializesDatabase 1 0.0269711
+RequestLoggerTest.SavesSuccessfulRequest 1 0.0164305
+RequestLoggerTest.SavesBlockedRequest 1 0.0208256
+---

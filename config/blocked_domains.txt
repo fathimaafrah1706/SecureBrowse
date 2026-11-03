@@ -1,0 +1,4 @@
+# SecureBrowse blocked domains
+
+malicious.example
+tracker.example

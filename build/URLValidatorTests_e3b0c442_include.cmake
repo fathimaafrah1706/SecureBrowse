@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/AFRAH/Downloads/SecureBrowse/build/URLValidatorTests_e3b0c442_tests.cmake")
+  include("C:/Users/AFRAH/Downloads/SecureBrowse/build/URLValidatorTests_e3b0c442_tests.cmake")
+else()
+  add_test(URLValidatorTests_NOT_BUILT URLValidatorTests_NOT_BUILT)
+endif()

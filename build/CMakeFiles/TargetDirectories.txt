@@ -1,0 +1,7 @@
+C:/Users/AFRAH/Downloads/SecureBrowse/build/CMakeFiles/SecureBrowse.dir
+C:/Users/AFRAH/Downloads/SecureBrowse/build/CMakeFiles/URLValidatorTests.dir
+C:/Users/AFRAH/Downloads/SecureBrowse/build/CMakeFiles/DomainBlockerTests.dir
+C:/Users/AFRAH/Downloads/SecureBrowse/build/CMakeFiles/RequestLoggerTests.dir
+C:/Users/AFRAH/Downloads/SecureBrowse/build/CMakeFiles/test.dir
+C:/Users/AFRAH/Downloads/SecureBrowse/build/CMakeFiles/edit_cache.dir
+C:/Users/AFRAH/Downloads/SecureBrowse/build/CMakeFiles/rebuild_cache.dir
