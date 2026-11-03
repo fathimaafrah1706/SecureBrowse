@@ -1,0 +1,10 @@
+build/
+.vscode/
+.idea/
+*.exe
+*.o
+*.obj
+*.db
+*.db-journal
+test_*.db
+test_blocked_domains.txt

@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/AFRAH/Downloads/SecureBrowse/build/RequestLoggerTests_e3b0c442_tests.cmake")
-  include("C:/Users/AFRAH/Downloads/SecureBrowse/build/RequestLoggerTests_e3b0c442_tests.cmake")
-else()
-  add_test(RequestLoggerTests_NOT_BUILT RequestLoggerTests_NOT_BUILT)
-endif()

@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/AFRAH/Downloads/SecureBrowse/build/DomainBlockerTests_e3b0c442_tests.cmake")
-  include("C:/Users/AFRAH/Downloads/SecureBrowse/build/DomainBlockerTests_e3b0c442_tests.cmake")
-else()
-  add_test(DomainBlockerTests_NOT_BUILT DomainBlockerTests_NOT_BUILT)
-endif()
